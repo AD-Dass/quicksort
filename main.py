@@ -21,5 +21,3 @@ def quick (numbers):
 if __name__=='__main__':
     numbers=sys.argv[1]
     quick(numbers)
-else:
-    quick()
